@@ -1,0 +1,9 @@
+name: hashids
+version: 1.0.0
+author: Iwan Sapoetra <isapoetra@gmail.com>
+description:  "Generate YouTube-like ids from numbers. Use Hashids when you do not want to expose your database ids to the user."
+homepage:
+environment:
+  sdk: '<2.0.0'
+dev_dependencies:
+  test: "^0.12.34"
